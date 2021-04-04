@@ -1,9 +1,0 @@
-C:\Users\huynh\Desktop\ERP_TEST\ERP_TEST.Action\bin\Debug\netstandard2.0\ERP_TEST.Action.deps.json
-C:\Users\huynh\Desktop\ERP_TEST\ERP_TEST.Action\bin\Debug\netstandard2.0\ERP_TEST.Action.dll
-C:\Users\huynh\Desktop\ERP_TEST\ERP_TEST.Action\bin\Debug\netstandard2.0\ERP_TEST.Action.pdb
-C:\Users\huynh\Desktop\ERP_TEST\ERP_TEST.Action\obj\Debug\netstandard2.0\ERP_TEST.Action.csprojAssemblyReference.cache
-C:\Users\huynh\Desktop\ERP_TEST\ERP_TEST.Action\obj\Debug\netstandard2.0\ERP_TEST.Action.AssemblyInfoInputs.cache
-C:\Users\huynh\Desktop\ERP_TEST\ERP_TEST.Action\obj\Debug\netstandard2.0\ERP_TEST.Action.AssemblyInfo.cs
-C:\Users\huynh\Desktop\ERP_TEST\ERP_TEST.Action\obj\Debug\netstandard2.0\ERP_TEST.Action.csproj.CoreCompileInputs.cache
-C:\Users\huynh\Desktop\ERP_TEST\ERP_TEST.Action\obj\Debug\netstandard2.0\ERP_TEST.Action.dll
-C:\Users\huynh\Desktop\ERP_TEST\ERP_TEST.Action\obj\Debug\netstandard2.0\ERP_TEST.Action.pdb
