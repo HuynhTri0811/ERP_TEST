@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uTgTmeQNTPIedz0XyWeAwuXqYwWGiFTr7bzJhCK3mfoimFWHy8dSSgSDuQ5/OMZdoGfukz6jyP5pca22b+5k4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\huynh\\Desktop\\ERP_TEST\\ERP_TEST.Model\\ERP_TEST.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\huynh\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.4\\microsoft.aspnetcore.cryptography.internal.5.0.4.nupkg.sha512",
+    "C:\\Users\\huynh\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\5.0.4\\microsoft.aspnetcore.cryptography.keyderivation.5.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

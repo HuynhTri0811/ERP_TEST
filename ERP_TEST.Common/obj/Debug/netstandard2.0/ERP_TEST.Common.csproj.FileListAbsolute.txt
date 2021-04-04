@@ -1,0 +1,9 @@
+C:\Users\huynh\Desktop\ERP_TEST\ERP_TEST.Common\bin\Debug\netstandard2.0\ERP_TEST.Common.deps.json
+C:\Users\huynh\Desktop\ERP_TEST\ERP_TEST.Common\bin\Debug\netstandard2.0\ERP_TEST.Common.dll
+C:\Users\huynh\Desktop\ERP_TEST\ERP_TEST.Common\bin\Debug\netstandard2.0\ERP_TEST.Common.pdb
+C:\Users\huynh\Desktop\ERP_TEST\ERP_TEST.Common\obj\Debug\netstandard2.0\ERP_TEST.Common.csprojAssemblyReference.cache
+C:\Users\huynh\Desktop\ERP_TEST\ERP_TEST.Common\obj\Debug\netstandard2.0\ERP_TEST.Common.AssemblyInfoInputs.cache
+C:\Users\huynh\Desktop\ERP_TEST\ERP_TEST.Common\obj\Debug\netstandard2.0\ERP_TEST.Common.AssemblyInfo.cs
+C:\Users\huynh\Desktop\ERP_TEST\ERP_TEST.Common\obj\Debug\netstandard2.0\ERP_TEST.Common.csproj.CoreCompileInputs.cache
+C:\Users\huynh\Desktop\ERP_TEST\ERP_TEST.Common\obj\Debug\netstandard2.0\ERP_TEST.Common.dll
+C:\Users\huynh\Desktop\ERP_TEST\ERP_TEST.Common\obj\Debug\netstandard2.0\ERP_TEST.Common.pdb

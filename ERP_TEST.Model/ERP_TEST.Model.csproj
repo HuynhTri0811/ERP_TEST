@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ERP_TEST.Action\ERP_TEST.Action.csproj" />
+    <ProjectReference Include="..\ERP_TEST.Common\ERP_TEST.Common.csproj" />
+  </ItemGroup>
+
+</Project>
